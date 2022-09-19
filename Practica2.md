@@ -38,9 +38,10 @@ entregado una copia bit a bit del dispositivo USB y te ha pedido que averigües 
 en él, y sobre todo, que les ayudes a responder las preguntas necesarias para resolver
 el caso:
 1. Quién es el nuevo cómplice de Martino Flores?  
-
+Un tal Ricky 
 
 2. Qué banco será su próximo objetivo y que dia van a efectuar el nuevo golpe?  
+El golpe va a ser el dia 29/01/2019
 
 También te han pedido que intentes obtener alguna prueba o evidencia de que Martino
 Flores es el famoso ladrón de bancos, ya que por el momento no tienen suficientes
@@ -53,6 +54,8 @@ Forensics / autopsy
 Desde una màquina windows, baja e instala l'Autopsy
 Con este programa, carga la imagen RAW anterior, y analitzala.
 ¿Qué encuentras?
+
+
 ¿Puedes leer alguna información? En caso afirmativo, ¿Cual?
 ## 13
 ### Análisis testdisk Linux  
